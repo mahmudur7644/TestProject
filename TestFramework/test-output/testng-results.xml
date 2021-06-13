@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-12T17:23:34 EDT" name="Default suite" finished-at="2021-06-12T17:24:04 EDT" duration-ms="30238">
+    <groups>
+    </groups>
+    <test started-at="2021-06-12T17:23:34 EDT" name="Default test" finished-at="2021-06-12T17:24:04 EDT" duration-ms="30238">
+      <class name="com.spacelabshealthcare.test.SpaceLabTestClass">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:com.spacelabshealthcare.test.SpaceLabTestClass@ef9296d]" started-at="2021-06-12T17:23:34 EDT" name="setUpBrowser" finished-at="2021-06-12T17:23:39 EDT" duration-ms="5530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="getallThelinksandAsserts()[pri:0, instance:com.spacelabshealthcare.test.SpaceLabTestClass@ef9296d]" started-at="2021-06-12T17:23:40 EDT" name="getallThelinksandAsserts" finished-at="2021-06-12T17:23:50 EDT" duration-ms="10041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallThelinksandAsserts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.spacelabshealthcare.test.SpaceLabTestClass@ef9296d]" started-at="2021-06-12T17:23:50 EDT" name="tearDown" finished-at="2021-06-12T17:24:04 EDT" duration-ms="14523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.spacelabshealthcare.test.SpaceLabTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
